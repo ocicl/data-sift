@@ -1,0 +1,10 @@
+* data-sift
+
+Common Lisp library for validataion and transformation of string data
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/archimag/data-sift.git   |
+| commit  | fd617d8  |
+| systems | data-sift |
+|---------+-------------------------------------------|
+
